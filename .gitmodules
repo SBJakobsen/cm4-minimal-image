@@ -10,3 +10,7 @@
 	path = layers/meta-openembedded
 	url = git@github.com:openembedded/meta-openembedded.git
 	branch = kirkstone
+[submodule "layers/meta-hailo"]
+	path = layers/meta-hailo
+	url = https://github.com/hailo-ai/meta-hailo
+	branch = kirkstone
