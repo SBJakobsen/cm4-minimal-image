@@ -21,7 +21,7 @@ esac
 BUILD_DIR=build
 REMOVEBUILD=no
 LOG=no
-IMAGE=update-image
+IMAGE=core-image-minimal
 BITBAKEARGS=
 LOGFILE=`pwd`/`basename "$0"`.log
 EXIT_CODE=0

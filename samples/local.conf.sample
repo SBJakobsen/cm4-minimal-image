@@ -1,0 +1,5 @@
+# Resin specific distros
+DISTRO ?= "poky"
+
+# Custom downloads directory
+DL_DIR ?= "${TOPDIR}/../../yocto_downloads"

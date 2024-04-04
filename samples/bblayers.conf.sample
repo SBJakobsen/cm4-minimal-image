@@ -14,9 +14,7 @@ BBLAYERS ?= " \
   ${TOPDIR}/../layers/meta-openembedded/meta-python \
   ${TOPDIR}/../layers/meta-openembedded/meta-multimedia \
   ${TOPDIR}/../layers/meta-raspberrypi \
-  ${TOPDIR}/../layers/meta-swupdate \
-  ${TOPDIR}/../layers/meta-factbird-view \
-  ${TOPDIR}/../layers/meta-aws \
-  ${TOPDIR}/../layers/meta-virtualization \
+  ${TOPDIR}/../layers/meta-hailo/meta-hailo-accelerator \
+  ${TOPDIR}/../layers/meta-hailo/meta-hailo-libhailort \  
   "
 
