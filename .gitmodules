@@ -14,3 +14,7 @@
 	path = layers/meta-hailo
 	url = https://github.com/hailo-ai/meta-hailo
 	branch = kirkstone
+[submodule "layers/meta-virtualization"]
+	path = layers/meta-virtualization
+	url = git://git.yoctoproject.org/meta-virtualization
+	branch = kirkstone
