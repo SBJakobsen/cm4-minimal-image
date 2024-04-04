@@ -36,7 +36,7 @@ The script available in `build.sh` can be used as a convenience layer around the
 
 * Run bitbake
     ```bash
-    $ bitbake update-image
+    $ bitbake core-image-full-cmdline
     ```
 
 * If all goes well, you will now have a custom image available at (assuming `cwd = build`)
