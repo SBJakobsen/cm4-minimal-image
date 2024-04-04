@@ -1,0 +1,1 @@
+sudo /home/soren/projects/usbboot/rpiboot
