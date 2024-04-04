@@ -1,4 +1,9 @@
-# Custom Yocto-based linux image used by the Factbird View V2
+# Yocto linux image for Raspberry Pi CM4
+
+## Purpose of repository
+This is a minimal version of a yocto build, to test compatibility of new projects before adding them to the main repo.
+Currently focused on:
+* Hailo AI chip
 
 ## Clone / Initialize this repository
 
